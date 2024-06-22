@@ -1,0 +1,2 @@
+# Prosesler-Arasi-Iletisim-ve-Sayfalama-Paylasimli-Bellek-ve-LFU-Algoritmasi-Uygulamalari
+Bu proje, prosesler arası iletişim ve sayfalama konularını ele alır. İlk bölümde, C dili ile paylaşımlı bellek ve semaforlar kullanılarak veri iletişimi incelenir. İkinci bölümde, LFU algoritmasının sayfa yönetiminde nasıl uygulandığı gösterilir. Her iki bölümde de ilgili kavramlar ve kod örnekleri sunulmuştur.
