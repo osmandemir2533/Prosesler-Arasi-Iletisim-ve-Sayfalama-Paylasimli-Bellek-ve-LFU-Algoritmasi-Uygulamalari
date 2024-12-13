@@ -23,6 +23,7 @@ Process 1 received 1 from process 0: Burada, Process 1'in Process 0'dan 1 değer
 
 -page_replacement.c ÇIKTI :
 
+
 ![image](https://github.com/osmandemir2533/Prosesler-Arasi-Iletisim-ve-Sayfalama-Paylasimli-Bellek-ve-LFU-Algoritmasi-Uygulamalari/assets/111290271/b757ab3e-479a-4c23-96df-0e70c4ae5ad3)
 
 1- Başlangıçta tüm çerçeveler boş (- ile gösterilir).
