@@ -38,5 +38,14 @@ Sonuçta toplam 16 sayfa hatası (page faults) meydana gelir. Bu, kodun verdiği
 Sonuç:
 Bu proje, prosesler arası iletişim ve bellek yönetimi konularında temel ve ileri düzey kavramların uygulamalı bir şekilde anlaşılmasını sağlamaktadır. Paylaşımlı bellek ve semaforlar, veri senkronizasyonu ve iletişimi için etkili bir yöntem sunarken, LFU algoritması bellek yönetiminde performans optimizasyonu sağlamaktadır. Her iki bölümdeki kod örnekleri, ilgili konuların anlaşılmasına ve uygulanmasına yönelik detaylı bir bakış açısı sunar.
 
+---
 
+## 📬 İletişim
+
+Bu projede yaptığım çalışmalarla ilgili başka sorularınız varsa, **Benimle her zaman iletişime geçebilirsiniz**:
+
+[![LinkedIn](https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png)](https://www.linkedin.com/in/osmandemir2533/)  &nbsp;&nbsp; 
+[![Website](https://img.icons8.com/ios-filled/50/8e44ad/domain.png)](https://osmandemir2533.github.io/)
+
+---
 
